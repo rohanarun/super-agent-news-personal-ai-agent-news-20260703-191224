@@ -1,0 +1,36 @@
+{
+  "citations": [
+    "[blog.google](https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-june-2026/)",
+    "[techcrunch.com](https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/)",
+    "[9to5google.com](https://9to5google.com/2026/06/30/gemini-spark-apps-more/)",
+    "[androidheadlines.com](https://www.androidheadlines.com/2026/06/google-gemini-3-5-flash-computer-use-chrome-update.html)",
+    "[electrive.com](https://www.electrive.com/)",
+    "[TradingView](https://www.tradingview.com/)",
+    "[36kr.com](https://36kr.com/)",
+    "[cio.com](https://www.cio.com/)",
+    "[msn.com](https://www.msn.com/)"
+  ],
+  "design_plan": "rng=42; audience=buyers+builders; AIDA=pass; hero_lines=2.4; bento_density=grid-auto-flow:dense verified; competitors_label_sweep=Folk,Orchids,Siri,ChatGPT,Gemini,Grok included; button_contrast=black/white pass",
+  "generated_at": "2026-07-03T19:12:31.736185+00:00",
+  "headline": "Personal AI Agent Market Brief",
+  "site_brief": {
+    "audience": "buyers and builders tracking personal AI agents",
+    "goal": "Create a frequently refreshed editorial blog homepage with a lead analysis, short posts, source cards, and a clear Super perspective on why computer-use caching makes repeated agent work cheaper and better.",
+    "kind": "blog",
+    "queries": [
+      "personal AI agents",
+      "AI assistants",
+      "computer use AI agent",
+      "browser automation agent",
+      "ChatGPT agent",
+      "Gemini AI assistant",
+      "Grok AI assistant",
+      "Siri AI assistant",
+      "Folk CRM AI",
+      "Orchids AI agent"
+    ],
+    "slug": "personal-ai-agent-news",
+    "title": "Personal AI Agent Market Brief"
+  },
+  "summary": "A July 2026 editorial brief for buyers and builders tracking personal AI agents \u2014 with a clear lens on real computer-use, cache reuse, and why repeated workflows are where costs and reliability diverge."
+}
